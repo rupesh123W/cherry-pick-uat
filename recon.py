@@ -7,7 +7,5 @@ timeout = 1803
 
 retry_count = 0
 
-# COMMAND ----------
-
 print(timeout, retry_count)
 

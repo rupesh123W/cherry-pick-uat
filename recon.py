@@ -5,7 +5,7 @@ timeout = 1899
 
 # COMMAND ----------
 
-retry_count = 3
+retry_count = 5
 
 print(timeout, retry_count)
 
